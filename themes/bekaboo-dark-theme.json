@@ -184,7 +184,7 @@
 		"titleBar.inactiveBackground": "#212121",
 		"titleBar.inactiveForeground": "#ABA9AB",
 		"tree.indentGuidesStroke": "#ABA9AB",
-		"widget.shadow": "#00000030",
+		"widget.shadow": "#00000030"
 		//"activityBar.activeBorder": "#eeffff",
 		//"activityBar.dropBorder": "#eeffff",
 		//"activityBar.inactiveForeground": "#eeffff66",
@@ -654,12 +654,12 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#d4d4d4",
+				"foreground": "#d4d4d4"
 			}
 		},
 		{
 			"scope": [
-				"keyword",
+				"keyword"
 			],
 			"settings": {
 				"foreground": "#d4d4d4",
@@ -726,7 +726,7 @@
 				"entity.name.function",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method",
+				"keyword.other.special-method"
 			],
 			"settings": {
 				"foreground": "#82AAFF",
@@ -1107,7 +1107,7 @@
 			],
 			"settings": {
 				"foreground": "#F07178",
-				"fontStyle": "bold"
+				"fontStyle": "italic bold"
 			}
 		},
 		{
