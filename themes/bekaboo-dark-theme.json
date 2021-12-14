@@ -165,13 +165,13 @@
 		"terminal.ansiBrightCyan": "#89ddff",
 		"terminal.ansiBrightGreen": "#c3e88d",
 		"terminal.ansiBrightMagenta": "#c792ea",
-		"terminal.ansiBrightRed": "#DCDCAA",
+		"terminal.ansiBrightRed": "#ff5370",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiBrightYellow": "#ffcb6b",
 		"terminal.ansiCyan": "#89ddff",
 		"terminal.ansiGreen": "#c3e88d",
 		"terminal.ansiMagenta": "#c792ea",
-		"terminal.ansiRed": "#DCDCAA",
+		"terminal.ansiRed": "#ff5370",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiYellow": "#ffcb6b",
 		"terminalCursor.background": "#000000",
@@ -620,7 +620,7 @@
 				"constant.other.php"
 			],
 			"settings": {
-				"foreground": "#b1ece1"
+				"foreground": "#B1ECE1"
 			}
 		},
 		{
@@ -808,7 +808,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#b1ece1"
+				"foreground": "#B1ECE1"
 			}
 		},
 		{
@@ -839,7 +839,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#aad5dc"
+				"foreground": "#AAD5DC"
 			}
 		},
 		{
@@ -884,7 +884,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#b1ece1"
+				"foreground": "#B1ECE1"
 			}
 		},
 		{
@@ -908,7 +908,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#FF5370"
 			}
 		},
 		{
@@ -960,7 +960,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#DCDCAA",
+				"foreground": "#FF5370",
 				"fontStyle": "italic"
 			}
 		},
@@ -977,7 +977,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b1ece1"
+				"foreground": "#B1ECE1"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			],
 			"settings": {
 				"foreground": "#F07178",
-				"fontStyle": "italic"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1164,7 +1164,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#b1ece1"
+				"foreground": "#B1ECE1"
 			}
 		},
 		{
