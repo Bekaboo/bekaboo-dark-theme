@@ -1,0 +1,25 @@
+{
+    "name": "bekaboo-dark-theme",
+    "displayName": "Bekaboo's Dark Theme",
+    "description": "Customized bases on Community Material Theme Darker.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bekaboo's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bekaboo-dark-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Bekaboo/bekaboo-dark-theme"
+    }
+}
