@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Bekaboo's Theme",
+                "label": "Bekaboo's Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bekaboo-dark-theme.json"
             }
